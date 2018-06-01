@@ -1,0 +1,3 @@
+WordCountTopologyMain是自己写的storm案例
+WordCountStormClusterTopology是在网上找到的一个案例
+https://blog.csdn.net/shenfuli/article/details/48997843
