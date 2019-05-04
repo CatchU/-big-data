@@ -7,5 +7,5 @@ import akka.actor.Actor
   * @date 2019/4/22 11:11
   */
 class MyActor extends Actor{
-
+  override def receive: Receive = ???
 }
