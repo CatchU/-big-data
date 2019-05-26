@@ -1,0 +1,5 @@
+package sparksql
+
+class Person {
+
+}
